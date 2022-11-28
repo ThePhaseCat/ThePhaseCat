@@ -1,23 +1,27 @@
 ## Hi there, I'm ThePhaseCat! Nice to meet you! 👋
 
-I'm a programmer who works in GDScript and Java, and also a bit of Minecraft Resource Pack work!
-I'm also a bit of an artist, but I'm not that good at art...but I'm getting better!
-I also do content on the side, especially TikTok content (you should follow my tiktok hehe)
+I'm a programmer who mainly works in GDScript and Java, but I'm not afraid to try new things!
+I'm also a bit of an artist, but I would say my work is quite bad...
+I also do content on the side cause it's fun!
 
 # I'm current working on...
-- My own game in Godot v3.5 (The Complex)
+- My own game in Godot (The Complex)
 - A resource Pack for my Minecraft Server, the PhaseSMP!
+- A server-side plugin for my Minecraft Server, the PhaseSMP!
 - Doing art on the side for my school's Game Dev Club game!
 - Content Creation!
 
 # Plans for things I want to do...
 - Endless Runner game in Godot
 - Top-down 2D puzzle game in Godot
+- Demake of Pokemon Scarlet and Violet in Godot
+- Pokemon Fangame in Godot
+- Sonic Fangame in Godot
 - Fortnite Resource Pack for Minecraft
 
 # How to reach me...
 You can reach me by using the social links in this link: https://phasecat.carrd.co/
-(I would prefer if you use Discord, as I can respond quickly there)
+(I would prefer if you use Discord, as I can respond really fast there!)
 
 # Random Stats...
 
