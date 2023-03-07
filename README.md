@@ -5,7 +5,7 @@ I'm also a bit of an artist, but I would say my work is quite bad...
 I also do content on the side cause it's fun!
 
 # I'm current working on...
-- My own game in Godot (The Complex)
+- My own game in Godot (The Complex, which is in a private repo!)
 - A resource Pack for my Minecraft Server, the PhaseSMP!
 - A server-side plugin for my Minecraft Server, the PhaseSMP!
 - Doing art on the side for my school's Game Dev Club game!
