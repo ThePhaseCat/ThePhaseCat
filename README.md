@@ -4,14 +4,16 @@ In programming, I mainly work in GDScript and Java, as I have the most amount of
 
 I'm still learning Godot and Java, but I'm having a blast right now learning them!
 
+Also, my first game just released, called The Complex! Check it out!
+https://thephasecat.itch.io/the-complex
+
 # I'm current working on...
-- My first game in Godot, coming soon!
+- Project Horizon (my next game project)
 - Both a resource pack and a server-side plugin for my Minecraft SMP, the PhaseSMP!
 - Game Dev Club game at my school, mainly on the ideas and art side of things!
 - Content Creation!
 
 # Plans for things I want to do...
-- Endless Runner game in Godot
 - Top-down 2D puzzle game in Godot
 - Furry RPG game in Godot
 - Pokemon Fangame in Godot
