@@ -8,7 +8,7 @@ Also, my first game just released, called The Complex! Check it out!
 https://thephasecat.itch.io/the-complex
 
 # I'm current working on...
-- Project Horizon (my next game project)
+- Project Horizon
 - Both a resource pack and a server-side plugin for my Minecraft SMP, the PhaseSMP!
 - Game Dev Club game at my school, mainly on the ideas and art side of things!
 - Content Creation!
