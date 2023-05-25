@@ -1,8 +1,8 @@
 ## Hi there, I'm ThePhaseCat! I'm a programmer, artist, and content creator for Youtube, Twitch, and Tiktok! Nice to meet you! 👋
 
-In programming, I mainly work in GDScript and Java, as I have the most amount of experience working in those two languages.
+In programming, I currently work in GDScript and Java!
 
-I'm still learning Godot and Java, but I'm having a blast right now learning them!
+I'm still pretty new to this whole programming thing, but I'm having a blast programming right now!
 
 Also, my first game just released, called The Complex! Check it out!
 https://thephasecat.itch.io/the-complex
