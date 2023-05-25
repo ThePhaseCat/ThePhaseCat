@@ -15,10 +15,7 @@ https://thephasecat.itch.io/the-complex
 - Content Creation!
 
 # Plans for things I want to do...
-- Top-down 2D puzzle game in Godot
-- Furry RPG game in Godot
-- Pokemon Fangame in Godot
-- Sonic Fangame in Godot
+-A Minecraft Content Mod (Maybe a new dimension)
 
 # How to reach me...
 You can reach me by using the social links in this link: https://phasecat.carrd.co/
