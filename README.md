@@ -13,7 +13,7 @@ https://thephasecat.itch.io/the-complex
 - Content Creation!
 
 # Plans for things I want to do...
--A Minecraft Content Mod (Maybe a new dimension)
+- A Minecraft Content Mod (Maybe a new dimension)
 
 # How to reach me...
 You can reach me by using the social links in this link: https://phasecat.carrd.co/
