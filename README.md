@@ -9,7 +9,7 @@ https://thephasecat.itch.io/the-complex
 
 # I'm current working on...
 - Project Tail
-- Both a resource pack and a server-side plugin for my Minecraft SMP, the PhaseSMP!
+- A resource pack for my Minecraft SMP, the PhaseSMP!
 - Content Creation!
 
 # Plans for things I want to do...
