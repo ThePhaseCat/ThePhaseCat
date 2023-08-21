@@ -8,7 +8,7 @@ Also, my first game just released, called The Complex! Check it out!
 https://thephasecat.itch.io/the-complex
 
 # I'm current working on...
-- Project Tail
+- Phase: Tale of the Two-Tailed Stone, my huge passion project I've been working on since May 2023!
 - A resource pack for my Minecraft SMP, the PhaseSMP!
 - Content Creation!
 
