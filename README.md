@@ -9,6 +9,7 @@ https://thephasecat.itch.io/the-complex
 
 # I'm current working on...
 - Phase: Tale of the Two-Tailed Stone, my huge passion project I've been working on since May 2023!
+- Phase's Discord Rich Presence, a new mod I'm working on to add some Discord Rich Presence support to Minecraft!
 - A resource pack for my Minecraft SMP, the PhaseSMP!
 - Content Creation!
 
