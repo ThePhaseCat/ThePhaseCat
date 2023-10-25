@@ -7,6 +7,8 @@ I'm having a blast programming and working on so many cool projects!
 Here's a link to the first game I've ever released, The Complex!
 https://thephasecat.itch.io/the-complex
 
+Here's a link to my second game, which was a game jam submission for the No Words Jam, MoonCat! https://thephasecat.itch.io/mooncat 
+
 # I'm current working on...
 - Phase: Tale of the Two-Tailed Stone, my huge passion project I've been working on since May 2023!
 - Phase's Discord Rich Presence, a new mod I'm working on to add Discord Rich Presence support to Minecraft!
@@ -15,7 +17,6 @@ https://thephasecat.itch.io/the-complex
 
 # Plans for things I want to do...
 - A Minecraft Content Mod (Maybe a new dimension)
-- Platformer Project
 - Endless Runner Project (maybe for mobile?)
 
 # How to reach me...
