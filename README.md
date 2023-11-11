@@ -1,4 +1,4 @@
-## Hi there, I'm ThePhaseCat! I'm a programmer, artist, and content creator for Youtube, Twitch, and Tiktok! Nice to meet you! 👋
+## Hi there, I'm ThePhaseCat! Welcome to my amazing nerd page where you can see everything I've done! Nice to meet you! 👋
 
 In programming, I currently work in GDScript, Java, and a little bit of C#!
 
