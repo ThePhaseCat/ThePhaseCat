@@ -9,6 +9,8 @@ https://thephasecat.itch.io/the-complex
 
 Here's a link to my second game, a game jam submission for the No Words Jam, MoonCat! https://thephasecat.itch.io/mooncat 
 
+Here's a link to my third game, SpaceCat Beyond! https://thephasecat.itch.io/spacecat-beyond
+
 # I'm current working on...
 - Phase: Tale of the Two-Tailed Stone, my huge passion project I've been working on since May 2023!
 - A resource pack for my Minecraft SMP, the PhaseSMP!
