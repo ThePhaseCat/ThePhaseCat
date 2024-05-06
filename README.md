@@ -13,11 +13,9 @@ Here's a link to my third game, SpaceCat Beyond! https://thephasecat.itch.io/spa
 
 # I'm current working on...
 - Phase: Tale of the Two-Tailed Stone, my huge passion project I've been working on since May 2023!
-- A resource pack for my Minecraft SMP, the PhaseSMP!
-- Content Creation!
+- A Minecraft Content Mod (cats anyone?)
 
 # Plans for things I want to do...
-- A Minecraft Content Mod (Maybe a new dimension)
 - Endless Runner Project (maybe for mobile?)
 - Idle Clicker Game (oh god no)
 - Basic 3D game (i have no idea)
