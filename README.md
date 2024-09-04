@@ -1,28 +1,14 @@
 ## Hi there, I'm ThePhaseCat! Welcome to my amazing nerd page where you can see everything I've done! Nice to meet you! 👋
 
-In programming, I currently work in GDScript, Java, and a little bit of C#!
+In programming, I currently work in GDScript, Java, C++ and a little bit of C#!
 
-I'm having a blast programming and working on so many cool projects!
+I'm having a blast programming and working on several projects. We don't talk about all the failed projects.
 
-Here's a link to the first game I've ever released, The Complex!
-https://thephasecat.itch.io/the-complex
-
-Here's a link to my second game, a game jam submission for the No Words Jam, MoonCat! https://thephasecat.itch.io/mooncat 
-
-Here's a link to my third game, SpaceCat Beyond! https://thephasecat.itch.io/spacecat-beyond
-
-# I'm current working on...
-- Phase: Tale of the Two-Tailed Stone, my huge passion project I've been working on since May 2023!
-- A Minecraft Content Mod (cats anyone?)
-
-# Plans for things I want to do...
-- Endless Runner Project (maybe for mobile?)
-- Idle Clicker Game (oh god no)
-- Basic 3D game (i have no idea)
+# Currently working on...
+Too many things to list, sorry!
 
 # How to reach me...
 You can reach me by using the social links in this link: https://phasecat.carrd.co/
-(I would prefer if you use Discord, as I can respond really fast there!)
 
 # Random Stats...
 
