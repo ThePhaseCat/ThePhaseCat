@@ -7,9 +7,6 @@ I'm having a blast programming and working on several projects. We don't talk ab
 # Currently working on...
 Too many things to list, sorry!
 
-# How to reach me...
-You can reach me by using the social links in this link: https://phasecat.carrd.co/
-
 # Random Stats...
 
 [![PhaseCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=thephasecat&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
