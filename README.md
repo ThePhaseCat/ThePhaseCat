@@ -1,11 +1,8 @@
-## Hi there, I'm ThePhaseCat! Welcome to my amazing nerd page where you can see everything I've done! Nice to meet you! 👋
+## Hi there! Welcome to my GitHub page where you can see everything (public) that I've worked on!
 
-In programming, I currently work in GDScript, Java, C++ and a little bit of C#!
+I currently work in GDScript, Java, C++ and a *tiny* amount of C#!
 
-I'm having a blast programming and working on several projects. We don't talk about all the failed projects.
-
-# Currently working on...
-Too many things to list, sorry!
+I'm having a blast programming and working on several projects.
 
 # Random Stats...
 
